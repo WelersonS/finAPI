@@ -33,7 +33,7 @@ Projeto desenvolvido durante as aulas do módulo I no bootcamp **Ignite - Trilha
   - [x] Rota para deletar uma conta
   - [x] Rota para retornar o saldo da conta
 
-## Regras de negócio
+ Regras de negócio
 
 - [x] Não deve ser possível cadastrar uma conta com CPF já existente
 - [x] Não deve ser possível buscar extrato em uma conta não existente
