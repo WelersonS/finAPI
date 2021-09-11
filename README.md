@@ -22,7 +22,7 @@ Projeto desenvolvido durante as aulas do módulo I no bootcamp **Ignite - Trilha
 
 ## ⚙️ Funcionalidades
 
-* Gerencie sua conta bancária: 
+ Gerencie sua conta bancária: 
   - [x] Rota para criar uma conta
   - [x] Rota para buscar o extrato bancário do cliente
   - [x] Rota para realizar um depósito
