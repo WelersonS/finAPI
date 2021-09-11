@@ -90,9 +90,7 @@ $ yarn start
 
 ---
 
-## 🛠 Tecnologias
-
-As seguintes ferramentas foram usadas na construção do projeto:
+## 🛠 Desenvolvido com
 
 * [NodeJS](https://nodejs.org/en/)
 
