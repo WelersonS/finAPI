@@ -4,7 +4,7 @@
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-tecnologias">Funcionalidades</a> •
+ <a href="#-funcionalidades">Funcionalidades</a> •
  <a href="#-como-executar-o-projeto">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-autor">Autor</a>
@@ -22,7 +22,7 @@ Projeto desenvolvido durante as aulas do módulo I no bootcamp **Ignite - Trilha
 
 ## ⚙️ Funcionalidades
 
-- Gerencie sua conta bancária: 
+* Gerencie sua conta bancária: 
   - [x] Rota para criar uma conta
   - [x] Rota para buscar o extrato bancário do cliente
   - [x] Rota para realizar um depósito
