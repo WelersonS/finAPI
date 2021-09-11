@@ -18,6 +18,13 @@
 
 Projeto desenvolvido durante as aulas do módulo I no bootcamp **Ignite - Trilha Node.JS**  oferecido pela [Rocketseat](https://rocketseat.com.br/).
 
+Conceitos abordados no projeto:
+- *Configuração de servidor*
+- *Verbos HTTP*
+- *Status Code*
+- *CRUD*
+- *Middlewares*
+
 ---
 
 ## ⚙️ Funcionalidades
