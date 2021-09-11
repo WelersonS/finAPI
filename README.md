@@ -6,7 +6,7 @@
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-funcionalidades">Funcionalidades</a> •
  <a href="#-como-executar-o-projeto">Como executar</a> • 
- <a href="#-tecnologias">Tecnologias</a> • 
+ <a href="#-desenvolvido-com">Desenvolvido com</a> • 
  <a href="#-autor">Autor</a>
 </p>
 
